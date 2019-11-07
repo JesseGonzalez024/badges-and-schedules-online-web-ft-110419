@@ -1,5 +1,5 @@
 # Write your code here.
-def conference_badges
+
 
 
 
@@ -10,9 +10,7 @@ def conference_badges
   
 
 def batch_badge_creator(speakers)
-  def badge_maker(name)
-    puts "Hello, my name is #{name}."
-  end
+  
   
   speakers.each { |name| return b
   end
