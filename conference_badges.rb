@@ -1,10 +1,6 @@
 # Write your code here.
 def conference_badges
 
-  
-
-  return badge_maker("Ariel")
-end
 
 
 
@@ -31,3 +27,7 @@ def printer
   
 end
 
+def assign_rooms(speakers)
+  
+  
+end
