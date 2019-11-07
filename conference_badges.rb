@@ -1,12 +1,12 @@
 # Write your code here.
 def conference_badges
 
-def badge_maker(name)
+  def badge_maker(name)
     puts "Hello, my name is #{name}."
-end
+  end
 
 return badge_maker("Ariel")
-
+end
 
 
 
