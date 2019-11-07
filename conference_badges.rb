@@ -1,1 +1,23 @@
 # Write your code here.
+def badge_maker(name)
+    puts "Hello, my name is #{name}"
+  return badge_maker(name)
+end
+
+
+
+speakers = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
+
+
+  
+
+def batch_badge_creator(speakers)
+  speakers.each do |name| 
+  end
+  
+  
+end
+
+def printer
+  
+end
